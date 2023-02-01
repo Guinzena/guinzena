@@ -1,12 +1,12 @@
-## Prazer! Meu nome é Guilherme Rodrigues 😁
+## Hey! My name is Guilherme Rodrigues 👋
 
-- 🎥 Sou um produtor e editor, mas interessado em programação...
-- 🐍 Aprendendo e evoluindo na linguagem Python
-- 💼 Atualmente estou Interessado em:
->  - **Desenvolvimento Back-End**
->  - **Desenvolvimento de Jogos**
->  - **⚙ Linguagem Rust**
->  - **🟨 Linguagem JavaScript**
+- 🎥 I'm an editor and producer, but interested in programming...
+- 🐍 Learning and evolving in the python language
+- 💼 I intend to learn:
+>  - **Back-End**
+>  - **Games Development**
+>  - **⚙ Rust**
+>  - **🟨 JavaScript**
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
