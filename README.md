@@ -1,10 +1,10 @@
-## Hey! My name is Guilherme Rodrigues 👋
+## Eaí! Meu nome é Guilherme Rodrigues 👋
 
-- 🎥 I'm an editor and producer, but interested in programming...
-- 🐍 Learning and evolving in the python language
-- 💼 I intend to learn:
+- 🎥 Sou editor e produtor, mas venho me interessando pela programação...
+- 🐍 Aprendendo e evoluindo na linguagem python
+- 💼 Eu pretendo aprender:
 >  - **Back-End**
->  - **Games Development**
+>  - **Desenvolvimento de Jogos**
 >  - **⚙ Rust**
 >  - **🟨 JavaScript**
 
