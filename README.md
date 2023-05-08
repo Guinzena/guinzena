@@ -1,14 +1,13 @@
-## Hey! My name is Guilherme Rodrigues 👋
+## Hello! 👋
 
-- 🎥 I'm an editor and producer, but I've been interested in programming...
-- 🐍 Learning and evolving in the python language
-- 💼 I intend to learn:
->  - **Back-End**
->  - **Game Development**
->  - **⚙ Rust**
+
+- I'm entering the world of Technology, and starting my career as a programmer and developer
+- I am currently interested in:
+>  - **Front-End**
 >  - **🟨 JavaScript**
-- 🟩 I'm from BRAZIL(that's why my notes are in portuguese)
-- ⏳ Follow me and see the evolution of a programmer!
+>  - **🖥 UX Design**
+>  - **🐍 Python**
+- Soon starting my studies as a data engineer...
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
